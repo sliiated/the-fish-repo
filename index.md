@@ -1,7 +1,8 @@
 
 <html>
 <body>
-<h1>the fish repo</h1>
-<p>a repo by yours truly, fish.</p>
+<h1>fish's hithub page</h1>
+<p>i try dumb stuff here</p>
 </body>
 </html>
+
