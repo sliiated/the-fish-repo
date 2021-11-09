@@ -1,6 +1,7 @@
 
 <html>
 <head>
+  <p> a silly little cydia repository </p>
 <style>
 
 .button {
