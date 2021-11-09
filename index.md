@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -10,7 +10,7 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 32px;
+  font-size: 24px;
   margin: 4px 2px;
   transition-duration: 0.5s;
   cursor: pointer;
