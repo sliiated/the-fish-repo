@@ -1,0 +1,13 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"blob:https://pixlr.com/9fad2b61-9357-4f27-941c-1fc385a90895",
+         "title":"thefishtest",
+         "package":"com.fsh.transparency",
+         "hideShadow":false
+      },
+   ]
+}
