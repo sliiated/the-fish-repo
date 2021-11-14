@@ -55,7 +55,11 @@
 <body>
 
 <h1>the fish repo's github pages</h1>
-
+<p>
+<strong>
+thefishtest about to enter beta phase!
+</strong>
+</p>
 <p>i try dumb stuff here</p>
 <p>i also have no clue how to markup so no cool looking page for anyone :(</p>
 
